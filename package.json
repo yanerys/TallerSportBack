@@ -1,0 +1,19 @@
+{
+  "name": "tallersportback",
+  "version": "1.0.0",
+  "description": "taller sport back",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanerys/tallerSportBack.git"
+  },
+  "author": "Yaneris de la Hoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanerys/tallerSportBack/issues"
+  },
+  "homepage": "https://github.com/yanerys/tallerSportBack#readme"
+}
