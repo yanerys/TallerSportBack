@@ -1,19 +1,18 @@
 {
-  "name": "tallersportback",
+  "name": "taller-sport-back",
   "version": "1.0.0",
-  "description": "taller sport back",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yanerys/tallerSportBack.git"
+    "start": "nodemon app.js"
   },
   "author": "Yaneris de la Hoz",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/yanerys/tallerSportBack/issues"
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.4",
+    "express": "^4.14.0",
+    "newman": "^4.0.2"
   },
-  "homepage": "https://github.com/yanerys/tallerSportBack#readme"
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
 }
